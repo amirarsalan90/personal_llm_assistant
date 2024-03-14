@@ -26,7 +26,7 @@ Start the llm engine (based on your GPU available RAM, you might need to change 
 python3 -m llama_cpp.server --model ./models/mistral-7b-instruct-v0.2.Q4_K_M.gguf --n_gpu_layers -1 --chat_format chatml
 ```
 
-Finally run the python code:
+Finally, in another terminal, run the python code:
 ```
 python gradio.app
 ```
