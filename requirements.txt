@@ -1,0 +1,9 @@
+llama-cpp-python[server]
+gradio
+openai
+huggingface-cli
+huggingface_hub
+torch
+transformers
+nltk
+optimum
