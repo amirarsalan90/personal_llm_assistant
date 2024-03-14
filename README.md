@@ -28,5 +28,5 @@ python3 -m llama_cpp.server --model ./models/mistral-7b-instruct-v0.2.Q4_K_M.ggu
 
 Finally, in another terminal, run the python code:
 ```
-python gradio.app
+python gradio_app.py
 ```
